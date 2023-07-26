@@ -1,0 +1,10 @@
+* cells
+
+A Common Lisp implementation of the dataflow programming paradigm
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kennytilton/cells.git   |
+| commit  | {"messa  |
+| systems | cells |
+|---------+-------------------------------------------|
+
