@@ -4,7 +4,7 @@ A Common Lisp implementation of the dataflow programming paradigm
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/kennytilton/cells.git   |
-| commit  | {"messa  |
+| commit  | 64d05c8  |
 | systems | cells |
 |---------+-------------------------------------------|
 
